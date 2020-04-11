@@ -1,0 +1,47 @@
+@font-face {
+  font-family: "caliber";
+  src: url("./light/Caliber-Light.eot");
+  src: url("./light/Caliber-Light.eot?#iefix") format("embedded-opentype"),
+    url("./light/Caliber-Light.svg#Caliber-Light") format("svg"),
+    url("./light/Caliber-Light.ttf") format("truetype"),
+    url("./light/Caliber-Light.woff") format("woff"),
+    url("./light/Caliber-Light.woff2") format("woff2");
+  font-weight: 300;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: "caliber";
+  src: url("./regular/Caliber.eot");
+  src: url("./regular/Caliber.eot?#iefix") format("embedded-opentype"),
+    url("./regular/Caliber.svg#Caliber") format("svg"),
+    url("./regular/Caliber.ttf") format("truetype"),
+    url("./regular/Caliber.woff") format("woff"),
+    url("./regular/Caliber.woff2") format("woff2");
+  font-weight: normal;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: "caliber";
+  src: url("./medium/Caliber-Medium.eot");
+  src: url("./medium/Caliber-Medium.eot?#iefix") format("embedded-opentype"),
+    url("./medium/Caliber-Medium.svg#Caliber-Medium") format("svg"),
+    url("./medium/Caliber-Medium.ttf") format("truetype"),
+    url("./medium/Caliber-Medium.woff") format("woff"),
+    url("./medium/Caliber-Medium.woff2") format("woff2");
+  font-weight: 500;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: "caliber";
+  src: url("./bold/Caliber-Bold.eot");
+  src: url("./bold/Caliber-Bold.eot?#iefix") format("embedded-opentype"),
+    url("./bold/Caliber-Bold.svg#Caliber-Bold") format("svg"),
+    url("./bold/Caliber-Bold.ttf") format("truetype"),
+    url("./bold/Caliber-Bold.woff") format("woff"),
+    url("./bold/Caliber-Bold.woff2") format("woff2");
+  font-weight: bold;
+  font-style: normal;
+}
