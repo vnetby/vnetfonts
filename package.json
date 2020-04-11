@@ -1,6 +1,6 @@
 {
   "name": "vnet-fonts",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "vnet fonts collection with css ready to be included in the project",
   "main": "index.js",
   "scripts": {
